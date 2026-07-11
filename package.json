@@ -1,0 +1,10 @@
+{
+  "name": "earth-game-messenger-mirror",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Authorized local mirror of the Messenger WebGL experience",
+  "scripts": {
+    "start": "python3 -m http.server 4173",
+    "serve": "python3 -m http.server 4173"
+  }
+}
